@@ -10,7 +10,7 @@
         "pathMode": "open-api"
       },
       "get": {
-        "summary": "Example Endpoint",
+        "summary": "Get all",
         "description": "",
         "x-zuplo-route": {
           "corsPolicy": "none",
